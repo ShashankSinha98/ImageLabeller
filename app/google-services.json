@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338931936652",
+    "firebase_url": "https://image-labeller-c49a0.firebaseio.com",
+    "project_id": "image-labeller-c49a0",
+    "storage_bucket": "image-labeller-c49a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338931936652:android:0fdad3215280e16330baa9",
+        "android_client_info": {
+          "package_name": "com.example.imagelabeller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338931936652-5tfu4svcrprtc19v2i6avju0crei9ktu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagelabeller",
+            "certificate_hash": "43c651dc72d37742ea67aa7a2428d1e329eaac3e"
+          }
+        },
+        {
+          "client_id": "338931936652-pbi1o83f9dcptjl500r11gpv73h224it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_6lNU22K0izyYUoVjt2QA3OUkDYSuQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338931936652-pbi1o83f9dcptjl500r11gpv73h224it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
